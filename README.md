@@ -18,7 +18,7 @@
 **Features in progress to be added as future updates**:
 
       1. Change 1D Beam Model to 2D Flat Plate Model.
-      2. Improve Coupling Strategy (Mapping) from Nearest Neighbour
+      2. Improve Coupling Strategy (Mapping):
                         a. Update Nearest Neighbour to RBF
                         b. Sub-iterations
       4. Improve VLM code to include Viscous Effects, effect of sweep etc. 
