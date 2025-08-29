@@ -23,9 +23,9 @@ Features in progress to be added as future updates:
 1. Change 1D Beam Model to 2D Flat Plate Model.
 2. Improve Coupling Strategy (Mapping) from Nearest Neighbour
    
-      a. Update Nearest Neighbour to RBF
-   
-      b. Sub-iterations
+                  a. Update Nearest Neighbour to RBF
+               
+                  b. Sub-iterations
    
 4. Improve VLM code to include Viscous Effects, effect of sweep etc. 
 5. Pseudo 2-way FSI with Single Iteration only from VLM -> FEM -> VLM.
