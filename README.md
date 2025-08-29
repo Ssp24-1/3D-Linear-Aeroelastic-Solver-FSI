@@ -11,9 +11,9 @@
         1. Tang-Dowell
         2. Goland
 
-For detailed explainations on procedure, methodologies and coupling method, a comprehensive report is also added. 
+-> For detailed explainations on procedure, methodologies and coupling method, a comprehensive report is also added. 
 
-Future Updates to make code more comprehensive and accurate will be added as completed. 
+-> Future Updates to make code more comprehensive and accurate will be added as completed. 
 
 **Features in progress to be added as future updates**:
 
