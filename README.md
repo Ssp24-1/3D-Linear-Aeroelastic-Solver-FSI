@@ -9,14 +9,14 @@ This repository contains a 1 way coupled 3D CFD(Vortex Lattice Method) and 1D Be
 
 Wing Geometries for common, experiemntally studied wings are already included in the **Constants_VLM_FEM.py** file:
 
-                  1. Tang-Dowell
-                  2. Goland
+        1. Tang-Dowell
+        2. Goland
 
 For detailed explainations on procedure, methodologies and coupling method, a comprehensive report is also added. 
 
 Future Updates to make code more comprehensive and accurate will be added as completed. 
 
-Features in progress to be added as future updates:
+**Features in progress to be added as future updates**:
 
       1. Change 1D Beam Model to 2D Flat Plate Model.
       2. Improve Coupling Strategy (Mapping) from Nearest Neighbour
