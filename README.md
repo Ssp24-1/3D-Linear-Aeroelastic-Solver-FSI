@@ -1,5 +1,4 @@
-This repository contains a 1 way coupled 3D CFD(Vortex Lattice Method) and 1D Beam Model
-++++++++++++++++++++++++++
+**This repository contains a 1 way coupled 3D CFD(Vortex Lattice Method) and 1D Beam Model**
 
 -> To run the FSI program, download all the python files and store in a single folder. 
 
