@@ -2,7 +2,7 @@
 
 -> To run the FSI program, download all the python files and store in a single folder. 
 
--> Once downloaded, run the **1-way FSI.py** folder. 
+-> Once downloaded, run the **FSI 1-way.py** folder. 
 
 -> Changes to the wing geometry, flow parameters, FEM and VLM parameters can be done in the **Constants_VLM_FEM.py** file. 
 
