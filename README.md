@@ -18,7 +18,7 @@ For detailed explainations on procedure, methodologies and coupling method, a co
 
 Future Updates to make code more comprehensive and accurate will be added as completed. 
 
-**Features in progress to be added as future updates: **
+Features in progress to be added as future updates:
 
 1. Change 1D Beam Model to 2D Flat Plate Model.
 2. Improve Coupling Strategy (Mapping) from Nearest Neighbour
