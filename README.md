@@ -6,6 +6,8 @@ This repository contains a 1 way coupled 3D CFD(Vortex Lattice Method) and 1D Be
 
 -> Changes to the wing geometry, flow parameters, FEM and VLM parameters can be done in the Constants_VLM_FEM.py file. 
 
++++++++++
+
 Wing Geometries for common, experiemntally studied wings are already included in the Constants_VLM_FEM file:
       1. Tang-Dowell
       2. Goland
