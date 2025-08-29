@@ -21,7 +21,7 @@
       2. Improve Coupling Strategy (Mapping):
                 a. Update Nearest Neighbour to RBF
                 b. Sub-iterations
-      4. Improve VLM code to include Viscous Effects, effect of sweep etc. 
+      4. Improve VLM code to include Viscous Effects etc. 
       5. Pseudo 2-way FSI with Single Iteration only (VLM -> FEM -> VLM).
       6. Complete 2-way FSI model setup 
 
